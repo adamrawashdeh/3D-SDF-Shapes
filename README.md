@@ -1,2 +1,2 @@
 # SDF-Shapes
-2D & 3D SDFs
+3D SDFs
