@@ -1,2 +1,1 @@
-# 3D-SDF-Shapes
-3D SDFs
+# 3D SDF Shapes converted to Python from OpenGL Shading Language (GLSL).
